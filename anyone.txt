@@ -1,0 +1,9 @@
+trojan://MiTiVPN@172.66.132.196:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFlL&host=f--ls-s.Maqror.ir&sni=fl-o--7-m.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%F0%9D%91%B5%F0%9D%91%B7%F0%9D%91%BD%F0%9F%87%AB%F0%9F%87%AE
+
+trojan://MITIVPN@162.159.38.119:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DDEE&host=De1-2-3.Maqror.ir&sni=de-ms.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%F0%9D%91%B5%F0%9D%91%B7%F0%9D%91%BD%F0%9F%87%A9%F0%9F%87%AA
+
+trojan://MITIVPN@45.130.125.2:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DUSa&host=my-usa-o.Maqror.ir&sni=UsAa-Us.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%F0%9D%91%B5%F0%9D%91%B7%F0%9D%91%BD%F0%9F%87%BA%F0%9F%87%B2
+
+trojan://MiTiVPN@162.159.8.123:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNLA&host=n-la-nad.Maqror.ir&sni=nland-o-oo.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%F0%9D%91%B5%F0%9D%91%B7%F0%9D%91%BD%F0%9F%87%B3%F0%9F%87%B1
+
+trojan://MiTiVPN@104.21.55.229:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS-w&host=w--is---s.Maqror.ir&sni=w-s-s.Maqror.ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-%F0%9D%91%AD%F0%9D%91%A8%F0%9D%91%BA%F0%9D%91%BB%20%F0%9D%91%B5%F0%9D%91%B7%F0%9D%91%BD%F0%9F%87%B8%F0%9F%87%AA
